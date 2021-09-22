@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="POG MOVES.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pog DOWN0000" x="0" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0001" x="0" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0002" x="537" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0003" x="537" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0004" x="1074" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0005" x="1074" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0006" x="1611" y="0" width="537" height="857"/>
+	<SubTexture name="pog DOWN0007" x="1611" y="0" width="537" height="857"/>
+	<SubTexture name="pog ID0000" x="2148" y="0" width="538" height="872"/>
+	<SubTexture name="pog ID0001" x="2148" y="0" width="538" height="872"/>
+	<SubTexture name="pog ID0002" x="2686" y="0" width="538" height="872"/>
+	<SubTexture name="pog ID0003" x="2686" y="0" width="538" height="872"/>
+	<SubTexture name="pog ID0004" x="3224" y="0" width="538" height="872"/>
+	<SubTexture name="pog ID0005" x="3224" y="0" width="538" height="872"/>
+	<SubTexture name="pog ID0006" x="0" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0007" x="0" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0008" x="538" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0009" x="538" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0010" x="1076" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0011" x="1076" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0012" x="1614" y="872" width="538" height="872"/>
+	<SubTexture name="pog ID0013" x="1614" y="872" width="538" height="872"/>
+	<SubTexture name="pog LEFT0000" x="2152" y="872" width="545" height="903"/>
+	<SubTexture name="pog LEFT0001" x="2152" y="872" width="545" height="903"/>
+	<SubTexture name="pog LEFT0002" x="2697" y="872" width="545" height="900" frameX="0" frameY="-3" frameWidth="545" frameHeight="903"/>
+	<SubTexture name="pog LEFT0003" x="2697" y="872" width="545" height="900" frameX="0" frameY="-3" frameWidth="545" frameHeight="903"/>
+	<SubTexture name="pog LEFT0004" x="3242" y="872" width="545" height="901" frameX="0" frameY="-2" frameWidth="545" frameHeight="903"/>
+	<SubTexture name="pog LEFT0005" x="3242" y="872" width="545" height="901" frameX="0" frameY="-2" frameWidth="545" frameHeight="903"/>
+	<SubTexture name="pog LEFT0006" x="0" y="1775" width="545" height="900" frameX="0" frameY="-3" frameWidth="545" frameHeight="903"/>
+	<SubTexture name="pog LEFT0007" x="0" y="1775" width="545" height="900" frameX="0" frameY="-3" frameWidth="545" frameHeight="903"/>
+	<SubTexture name="pog RIGHT0000" x="545" y="1775" width="550" height="909" frameX="0" frameY="-7" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0001" x="545" y="1775" width="550" height="909" frameX="0" frameY="-7" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0002" x="1095" y="1775" width="550" height="911" frameX="0" frameY="-5" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0003" x="1095" y="1775" width="550" height="911" frameX="0" frameY="-5" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0004" x="1645" y="1775" width="550" height="913" frameX="0" frameY="-3" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0005" x="1645" y="1775" width="550" height="913" frameX="0" frameY="-3" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0006" x="2195" y="1775" width="550" height="911" frameX="0" frameY="-5" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog RIGHT0007" x="2195" y="1775" width="550" height="911" frameX="0" frameY="-5" frameWidth="550" frameHeight="916"/>
+	<SubTexture name="pog UP0000" x="2745" y="1775" width="533" height="888"/>
+	<SubTexture name="pog UP0001" x="2745" y="1775" width="533" height="888"/>
+	<SubTexture name="pog UP0002" x="3278" y="1775" width="533" height="888"/>
+	<SubTexture name="pog UP0003" x="3278" y="1775" width="533" height="888"/>
+	<SubTexture name="pog UP0004" x="0" y="2688" width="533" height="888"/>
+	<SubTexture name="pog UP0005" x="0" y="2688" width="533" height="888"/>
+	<SubTexture name="pog UP0006" x="533" y="2688" width="533" height="888"/>
+	<SubTexture name="pog UP0007" x="533" y="2688" width="533" height="888"/>
+</TextureAtlas>

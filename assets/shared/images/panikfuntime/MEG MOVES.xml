@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEG MOVES.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meg DOWN0000" x="0" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0001" x="0" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0002" x="355" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0003" x="355" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0004" x="710" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0005" x="710" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0006" x="1065" y="0" width="355" height="734"/>
+	<SubTexture name="meg DOWN0007" x="1065" y="0" width="355" height="734"/>
+	<SubTexture name="meg ID0000" x="1420" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0001" x="1420" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0002" x="1776" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0003" x="1776" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0004" x="2132" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0005" x="2132" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0006" x="2488" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0007" x="2488" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0008" x="2844" y="0" width="356" height="782"/>
+	<SubTexture name="meg ID0009" x="2844" y="0" width="356" height="782"/>
+	<SubTexture name="meg ID0010" x="3200" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0011" x="3200" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0012" x="3556" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg ID0013" x="3556" y="0" width="356" height="775" frameX="0" frameY="-7" frameWidth="356" frameHeight="782"/>
+	<SubTexture name="meg LEFT0000" x="0" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0001" x="0" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0002" x="368" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0003" x="368" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0004" x="736" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0005" x="736" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0006" x="1104" y="782" width="368" height="775"/>
+	<SubTexture name="meg LEFT0007" x="1104" y="782" width="368" height="775"/>
+	<SubTexture name="meg RIGHT0000" x="1472" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0001" x="1472" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0002" x="1829" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0003" x="1829" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0004" x="2186" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0005" x="2186" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0006" x="2543" y="782" width="357" height="775"/>
+	<SubTexture name="meg RIGHT0007" x="2543" y="782" width="357" height="775"/>
+	<SubTexture name="meg UP0000" x="2900" y="782" width="355" height="797"/>
+	<SubTexture name="meg UP0001" x="2900" y="782" width="355" height="797"/>
+	<SubTexture name="meg UP0002" x="3255" y="782" width="355" height="797"/>
+	<SubTexture name="meg UP0003" x="3255" y="782" width="355" height="797"/>
+	<SubTexture name="meg UP0004" x="3610" y="782" width="355" height="797"/>
+	<SubTexture name="meg UP0005" x="3610" y="782" width="355" height="797"/>
+	<SubTexture name="meg UP0006" x="0" y="1579" width="355" height="797"/>
+	<SubTexture name="meg UP0007" x="0" y="1579" width="355" height="797"/>
+</TextureAtlas>

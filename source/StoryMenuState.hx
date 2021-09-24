@@ -24,7 +24,6 @@ class StoryMenuState extends MusicBeatState
 	var scoreText:FlxText;
 
 	var weekData:Array<Dynamic> = [
-		['Tutorial'],
 		['Poggers', 'Whatever', 'GetFunky']
 	];
 	var curDifficulty:Int = 1;
@@ -32,7 +31,6 @@ class StoryMenuState extends MusicBeatState
 	public static var weekUnlocked:Array<Bool> = [true, true];
 
 	var weekCharacters:Array<Dynamic> = [
-		['', 'bf', 'gf'],
 		['pogandmeg', '', '']
 	];
 
@@ -276,6 +274,8 @@ class StoryMenuState extends MusicBeatState
 			{
 				case 0:
 					diffic = '-easy';
+				case 1:
+					diffic = '';
 				case 2:
 					diffic = '-hard';
 			}
@@ -288,15 +288,7 @@ class StoryMenuState extends MusicBeatState
 
 		new FlxTimer().start(1.3, function(tmr:FlxTimer)
 			{
-
-			if (curWeek == 1)
-				{
 					LoadingState.loadAndSwitchState(new VideoState("assets/videos/song1.webm", new PlayState()));
-				}
-			else
-				{
-					LoadingState.loadAndSwitchState(new PlayState(), true);
-				}
 			});
 		}
 	}
@@ -305,10 +297,10 @@ class StoryMenuState extends MusicBeatState
 	{
 		curDifficulty += change;
 
-		if (curDifficulty < 2)
+		if (curDifficulty < 1)
 			curDifficulty = 2;
 		if (curDifficulty > 2)
-			curDifficulty = 2;
+			curDifficulty = 1;
 
 		sprDifficulty.offset.x = 0;
 
